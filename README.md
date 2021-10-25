@@ -1,2 +1,6 @@
-# adv-discord-token-grabber
- this tool build token grabber 
+
+# best discord token grabber builder
+
+**build token grabber steal passwords inject in discord and more for educational purposes only**
+
+**hope you enjoy, have good day :)**
